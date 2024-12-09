@@ -106,7 +106,7 @@ for _, row in df.iterrows():
     """
     update_statements.append(update_statement.strip())
 
-# Combine all update statements into a single SQL script
+# Combine all update statements into the single SQL script
 sql_script = "\n".join(update_statements)
 
 # Display the generated SQL script (optional)
