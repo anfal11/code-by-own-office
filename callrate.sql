@@ -1,0 +1,12 @@
+INSERT INTO [dbo].[topupdeals] ([operator], [dealtype], [amount], [description], [is_cash_back], [cash_back]) VALUES ('robi', '4', '34', N'১.১৯ টাকা/ মিনিট (১০ সেকেন্ড প্লাস) ৩ দিন', 'false', '0');
+INSERT INTO [dbo].[topupdeals] ([operator], [dealtype], [amount], [description], [is_cash_back], [cash_back]) VALUES ('robi', '4', '44', N'১ পয়সা / সেকেন্ড ৩ দিন', 'false', '0');
+INSERT INTO [dbo].[topupdeals] ([operator], [dealtype], [amount], [description], [is_cash_back], [cash_back]) VALUES ('robi', '4', '64', N'১ পয়সা/ সেকেন্ড ৫ দিন', 'false', '0');
+INSERT INTO [dbo].[topupdeals] ([operator], [dealtype], [amount], [description], [is_cash_back], [cash_back]) VALUES ('robi', '4', '124', N'১.১৯ টাকা/ মিনিট (১০ সেকেন্ড প্লাস) ৩০ দিন', 'false', '0');
+INSERT INTO [dbo].[topupdeals] ([operator], [dealtype], [amount], [description], [is_cash_back], [cash_back]) VALUES ('robi', '4', '144', N'১ পয়সা/ সেকেন্ড ৩০দিন', 'false', '0');
+INSERT INTO [dbo].[topupdeals] ([operator], [dealtype], [amount], [description], [is_cash_back], [cash_back]) VALUES ('robi', '4', '204', N'১ পয়সা/ সেকেন্ড ৬০দিন', 'false', '0');
+INSERT INTO [dbo].[topupdeals] ([operator], [dealtype], [amount], [description], [is_cash_back], [cash_back]) VALUES ('robi', '4', '304', N'১ পয়সা/ সেকেন্ড ৯০ দিন', 'false', '0');
+INSERT INTO [dbo].[topupdeals] ([operator], [dealtype], [amount], [description], [is_cash_back], [cash_back]) VALUES ('robi', '4', '904', N'১ পয়সা/ সেকেন্ড ৩৬৫ দিন', 'false', '0');
+INSERT INTO [dbo].[topupdeals] ([operator], [dealtype], [amount], [description], [is_cash_back], [cash_back]) VALUES ('robi', '4', '26', N'১.১৯ টাকা/ মিনিট (১০ সেকেন্ড প্লাস) ২ দিন', 'false', '0');
+INSERT INTO [dbo].[topupdeals] ([operator], [dealtype], [amount], [description], [is_cash_back], [cash_back]) VALUES ('robi', '4', '56', N'১.১৯ টাকা/ মিনিট (১০ সেকেন্ড প্লাস) ৭ দিন', 'false', '0');
+INSERT INTO [dbo].[topupdeals] ([operator], [dealtype], [amount], [description], [is_cash_back], [cash_back]) VALUES ('robi', '4', '106', N'৯৯ পয়সা/মিনিট ৩০ দিন', 'false', '0');
+INSERT INTO [dbo].[topupdeals] ([operator], [dealtype], [amount], [description], [is_cash_back], [cash_back]) VALUES ('robi', '4', '114', N'৯৯ পয়সা/মিনিট ৩০ দিন', 'false', '0');

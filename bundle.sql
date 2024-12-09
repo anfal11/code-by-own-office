@@ -1,0 +1,11 @@
+INSERT INTO [dbo].[topupdeals] ([operator], [dealtype], [amount], [description], [is_cash_back], [cash_back]) VALUES ('robi', '1', '179', N'৩জিবি ১৫০মিনিট ৭দিন', 'false', '0');
+INSERT INTO [dbo].[topupdeals] ([operator], [dealtype], [amount], [description], [is_cash_back], [cash_back]) VALUES ('robi', '1', '249', N'৮ জিবি ২০০ মিনিট ৭দিন', 'false', '0');
+INSERT INTO [dbo].[topupdeals] ([operator], [dealtype], [amount], [description], [is_cash_back], [cash_back]) VALUES ('robi', '1', '299', N'৪ জিবি ১০০ মিনিট ৩০ দিন', 'false', '0');
+INSERT INTO [dbo].[topupdeals] ([operator], [dealtype], [amount], [description], [is_cash_back], [cash_back]) VALUES ('robi', '1', '309', N'২৫ জিবি ৪০০ মিনিট ৩০ দিন', 'false', '0');
+INSERT INTO [dbo].[topupdeals] ([operator], [dealtype], [amount], [description], [is_cash_back], [cash_back]) VALUES ('robi', '1', '399', N'১০ জিবি ২০০মিনিট ৩০ দিন', 'false', '0');
+INSERT INTO [dbo].[topupdeals] ([operator], [dealtype], [amount], [description], [is_cash_back], [cash_back]) VALUES ('robi', '1', '499', N'১৫ জিবি ৪০০মিনিট ৩০ দিন', 'false', '0');
+INSERT INTO [dbo].[topupdeals] ([operator], [dealtype], [amount], [description], [is_cash_back], [cash_back]) VALUES ('robi', '1', '599', N'২০ জিবি ৪০০ মিনিট ৩০ দিন', 'false', '0');
+INSERT INTO [dbo].[topupdeals] ([operator], [dealtype], [amount], [description], [is_cash_back], [cash_back]) VALUES ('robi', '1', '699', N'৩০জিবি ৬০০ মিনিট ৩০ দিন', 'false', '0');
+INSERT INTO [dbo].[topupdeals] ([operator], [dealtype], [amount], [description], [is_cash_back], [cash_back]) VALUES ('robi', '1', '799', N'৪০ জিবি ৭০০ মিনিট ৩০ দিন', 'false', '0');
+INSERT INTO [dbo].[topupdeals] ([operator], [dealtype], [amount], [description], [is_cash_back], [cash_back]) VALUES ('robi', '1', '999', N'৬০ জিবি ১৫০০ মিনিট ৩০ দিন', 'false', '0');
+INSERT INTO [dbo].[topupdeals] ([operator], [dealtype], [amount], [description], [is_cash_back], [cash_back]) VALUES ('robi', '1', '73', N'হইচই ,চরকি ফ্রি সাবস্ক্রিপশন + ১৬০ এসএমএস ১ দিন', 'false', '0');
